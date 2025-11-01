@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: default
 title: Home
 ---
@@ -7,8 +7,8 @@ title: Home
 Brief intro (what you do, what you like working on).
 
 ## Projects
-- **Project A** ¡ª one-liner with [code](https://github.com/your-username/project-a) and [demo](#).
-- **Project B** ¡ª one-liner with links.
+- **Project A** â€” one-liner with [code](https://github.com/your-username/project-a) and [demo](#).
+- **Project B** â€” one-liner with links.
 
 ## Writing
 - Post 1 (coming soon)
