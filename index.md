@@ -66,6 +66,10 @@ body { font-family: "Space Grotesk", "Segoe UI", system-ui, -apple-system, sans-
     <h3><a href="https://docs.google.com/document/d/1yMQO5gMDDOHjJtARQ-bsJ_lzg2rPrEDq/edit?usp=sharing&ouid=113821768755447233365&rtpof=true&sd=true" target="_blank" rel="noopener">Handling Data Bias</a></h3>
     <p>Practical framework to spot and mitigate dataset bias; includes checklists and remediation tactics for teams.</p>
   </article>
+  <article class="card">
+    <h3><a href="https://docs.google.com/document/d/1qii7tE9dTLUhIjd4t9MmoAJ2sWMNBg8o3bHdSajEr2w/edit?usp=sharing" target="_blank" rel="noopener">AI Incident Analysis Report</a></h3>
+    <p>An analysis report for an incident that is related to AI.</p>
+  </article>
 </div>
 
 <div class="section-title" id="highlights"><span></span><h2>Highlights</h2></div>
