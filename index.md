@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: default
 title: Home
 ---
@@ -34,7 +34,7 @@ body { font-family: "Space Grotesk", "Segoe UI", system-ui, -apple-system, sans-
 
 <div class="hero">
   <p class="eyebrow">Portfolio</p>
-  <h1>Zhixuan Huan — building thoughtful AI & product experiences</h1>
+  <h1>Zhixuan Huan â€” building thoughtful AI & product experiences</h1>
   <p>I explore how machine learning, data storytelling, and clear interfaces can make complex ideas feel approachable. Highlights below show research timelines, planners, and bias explorations in practice.</p>
   <div class="hero-actions">
     <a class="btn primary" href="https://drive.google.com/file/d/1KUxlsKxW5UyDP27KCoztNXY50-BPazva/view?usp=sharing" target="_blank" rel="noopener">View bio</a>
@@ -77,7 +77,7 @@ body { font-family: "Space Grotesk", "Segoe UI", system-ui, -apple-system, sans-
 
 <div class="section-title" id="writing"><span></span><h2>Writing & Notes</h2></div>
 <ul>
-  <li>Post series coming soon — focused on practical ML heuristics and design notes. Ping me if you want early drafts.</li>
+  <li>Post series coming soon â€” focused on practical ML heuristics and design notes. Ping me if you want early drafts.</li>
 </ul>
 
 <div class="section-title" id="contact"><span></span><h2>Connect</h2></div>
