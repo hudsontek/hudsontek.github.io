@@ -70,11 +70,15 @@ body { font-family: "Space Grotesk", "Segoe UI", system-ui, -apple-system, sans-
     <h3><a href="https://docs.google.com/document/d/1qii7tE9dTLUhIjd4t9MmoAJ2sWMNBg8o3bHdSajEr2w/edit?usp=sharing" target="_blank" rel="noopener">AI Incident Analysis Report</a></h3>
     <p>An analysis report for an incident that is related to AI.</p>
   </article>
+  <article class="card">
+    <h3><a href="https://drive.google.com/file/d/1M5RW0u8dKfzQghWaTqPwhP5pOFf_cY8T/view?usp=sharing" target="_blank" rel="noopener">Machine Learning Algorithms Visual Framework</a></h3>
+    <p>A visual classification of different machine learning algorithms.</p>
+  </article>
 </div>
 
 <div class="section-title" id="highlights"><span></span><h2>Highlights</h2></div>
 <div class="highlight">
-  <div class="stat">4+ featured explorations<small>AI, bias, planners, comparisons</small></div>
+  <div class="stat">6 featured explorations<small>AI, bias, planners, comparisons</small></div>
   <div class="stat">Audience-first storytelling<small>Slides, docs, and agent UX patterns</small></div>
   <div class="stat">Systems mindset<small>Bridges research clarity to shipped utility</small></div>
 </div>
