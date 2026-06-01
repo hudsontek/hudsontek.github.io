@@ -78,6 +78,10 @@ body { font-family: "Space Grotesk", "Segoe UI", system-ui, -apple-system, sans-
     <h3><a href="https://docs.google.com/presentation/d/1_XkGvBQZ8npUclZjSjDWoDx_8nmKxQuzjn5EZX8ie5M/edit?usp=sharing" target="_blank" rel="noopener">Neural Networks Visualization</a></h3>
     <p>A visual explanation of how neural networks work.</p>
   </article>
+  <article class="card">
+    <h3><a href="https://drive.google.com/file/d/1t3aVuQ9ORSrlAxuObW4pn2CPyDN-LeyA/view?usp=sharing" target="_blank" rel="noopener">LLM training Visualization</a></h3>
+    <p>A visual explanation of how LLMs are trained.</p>
+  </article>
 </div>
 
 <div class="section-title" id="highlights"><span></span><h2>Highlights</h2></div>
