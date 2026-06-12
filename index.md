@@ -87,8 +87,8 @@ body { font-family: "Space Grotesk", "Segoe UI", system-ui, -apple-system, sans-
     <p>What is explainable AI and why it matters.</p>
   </article>
   <article class="card">
-    <h3><a href="https://docs.google.com/document/d/1iS1QTmj3vmPQUHp4U6lzhyWJDUzcgEueW1k6CfDkdeI/edit?usp=sharing" target="_blank" rel="noopener">Pre-Trained Models Decision Matrix</a></h3>
-    <p>Decision Matrix for Selecting Pre-Trained Models Across NLP, Computer Vision, and Tabular Data.</p>
+    <h3><a href="https://docs.google.com/document/d/1iS1QTmj3vmPQUHp4U6lzhyWJDUzcgEueW1k6CfDkdeI/edit?usp=sharing" target="_blank" rel="noopener">Pre-trained models decision matrix</a></h3>
+    <p>A decision matrix for selecting pre-trained models.</p>
   </article>
 </div>
 
